@@ -1,0 +1,5 @@
+node/node_modules
+node/package-lock.json
+python/pics/*
+node/*.swp
+python/project2/USDT_ETH24H.json

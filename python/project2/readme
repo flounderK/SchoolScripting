@@ -1,0 +1,20 @@
+This script downloads a json file from polonix.com's api conatining the 
+last 24 hours worth of ethereum transactions, then 
+displays the gathered data in a candlesick chart. The script must 
+be run on a system with a desktop environment to run correctly. 
+It will run on both windows and linux. 
+The script has a number of dependencies that might not be installed by default:
+matplotlib, pandas, mpl_finance, tkinter
+apt install python3-tk or yum install python3-tkinter
+pip install matplotlib
+pip install pandas
+pip install requests
+
+git clone https://github.com/matplotlib/mpl_finance.git
+cd mpl_finance
+python setup.py install
+
+
+
+usage: 
+	python project2.py

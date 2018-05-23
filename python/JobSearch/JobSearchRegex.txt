@@ -1,0 +1,16 @@
+{"pattern":"[Pp]ython", "score":5}
+{"pattern":"(?<![A-Za-z])[Ss]cript(s|ing)*", "score":3}
+{"pattern":"[Ll][Ii][Nn][Uu][Xx]","score":5}
+{"pattern":"([Jj][Aa][Vv][Aa](?![Ss]))", "score":3.5}
+{"pattern":"(([Dd]ata|[Ii]nformation|[Cc]yber|[Nn]etwork)(.))*[Ss]ecurity", "score":5}
+{"pattern":"(([Ss][Qq][Ll])|([Ss]tructured.[Qq]uery.[Ll]anguage))", "score":3}
+{"pattern":"[Dd]ev(elopment)*.{0,1}[Oo]p(s|erations)", "score":3}
+{"pattern":"([Bb][Aa][Ss][Hh]|(([Pp]ower)*[Ss]hell))", "score":3.5}
+{"pattern":"[Ss]elenium", "score":3}
+{"pattern":"(?<!([A-Za-z]))[Oo]([Oo][Pp]|bject.[Oo]riented.([Pp]rogramming|[Dd]esign))", "score":3}
+{"pattern":"(?<![A-Za-z])[Gg]it", "score":3}
+{"pattern":"(?<![A-Za-z])[Nn][Mm][Aa][Pp]", "score":4}
+{"pattern":"[Ww]eb.{0,1}[Ss]crap(e|ing)", "score":3}
+{"pattern":"[Nn]etwork(s|ing)*(.{0,1}([Aa]dministrat(ion|or)|[Ee]ngineer))", "score":4}
+{"pattern":"[Tt][Cc][Pp].[Ii][Pp]|[Dd][Nn][Ss]", "score":3}
+{"pattern":"([Ww]rit(e|ing) )*[Cc]ode(ing)*", "score":3}
